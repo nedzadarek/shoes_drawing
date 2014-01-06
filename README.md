@@ -11,3 +11,8 @@ This project aims to store each sequence of strokes too the file and later play 
  * open shoes -> Open an App. -> Choice the file.
  
 
+### How to:
+
+There is square where you can draw.
+At the moment there is no background to tells you where you can draw, so at the top of screen it will be sentence that tells you if you can or can not draw.
+Click and move to draw.
