@@ -13,6 +13,9 @@ This project aims to store each sequence of strokes too the file and later play 
 
 ### How to:
 
-There is square where you can draw.
-At the moment there is no background to tells you where you can draw, so at the top of screen it will be sentence that tells you if you can or can not draw.
+There is red background & text above that tells you where you can draw.
 Click and move to draw.
+
+### To fix
+
+Draws lines closer to bottom edge than it should.
